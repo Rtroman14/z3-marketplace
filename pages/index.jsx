@@ -2,13 +2,11 @@ import { useState } from "react";
 import Head from "next/head";
 import Image from "next/image";
 
-import { styled } from "@mui/material/styles";
-
 import PropTypes from "prop-types";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 
-import { Box, Container, Typography, Button, Grid, Paper } from "@mui/material";
+import { Box, Container, Typography, Button, Grid } from "@mui/material";
 
 import styles from "../styles/Home.module.css";
 import gemboxStyles from "../src/components/Gembox/Gembox.module.scss";
@@ -17,14 +15,6 @@ import Marketplace from "../src/components/Marketplace/Marketplace";
 import Gembox from "../src/components/Gembox/Gembox";
 
 import marketplaceImage from "../assets/img/marketplace.png";
-
-const Item = styled(Paper)(({ theme }) => ({
-    backgroundColor: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
-    ...theme.typography.body2,
-    padding: theme.spacing(1),
-    textAlign: "center",
-    color: theme.palette.text.secondary,
-}));
 
 function TabPanel(props) {
     const { children, value, index, ...other } = props;
