@@ -77,7 +77,12 @@ export default function Home() {
                 <Button size="medium">Connect</Button>
             </div>
 
-            <Typography className={styles.title} gutterBottom variant="h1" component="h1">
+            <Typography
+                className={styles.title}
+                gutterBottom
+                variant="h1"
+                component="h1"
+                sx={{ fontFamily: "Skygraze !important" }}>
                 Marketplace
             </Typography>
 
