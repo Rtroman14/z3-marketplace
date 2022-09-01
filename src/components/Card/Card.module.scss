@@ -1,0 +1,51 @@
+.card {
+    width: 210px;
+    background-color: #202225;
+    margin: 0 auto;
+    z-index: 999;
+}
+
+@media only screen and (max-width: 425px) {
+    .card {
+        width: 100%;
+    }
+}
+
+.title {
+    text-align: start;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.price {
+    text-align: start;
+    font-size: 14px;
+}
+
+.cost {
+    text-align: start;
+    font-size: 12px;
+
+    margin-top: -2px;
+    padding-left: 4px;
+}
+
+.actions {
+    padding-left: 16px;
+    padding-bottom: 12px;
+    width: 100%;
+}
+
+.description {
+    text-align: start;
+}
+
+.button {
+    width: 100%;
+}
+
+@media only screen and (max-width: 425px) {
+    .actions {
+        padding: 0px 16px 16px;
+    }
+}

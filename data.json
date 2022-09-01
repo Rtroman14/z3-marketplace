@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Project-A WL",
+        "type": "Whitelist",
+        "cost": 100,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 2,
+        "name": "Project-B WL",
+        "type": "Whitelist",
+        "cost": 115,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 3,
+        "name": "Project-C WL",
+        "type": "Whitelist",
+        "cost": 85,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 4,
+        "name": "Project-D WL",
+        "type": "Whitelist",
+        "cost": 105,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 5,
+        "name": "Project-E WL",
+        "type": "Whitelist",
+        "cost": 75,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 6,
+        "name": "Project-F WL",
+        "type": "Whitelist",
+        "cost": 80,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 7,
+        "name": "NFT #3021",
+        "type": "NFT",
+        "cost": 4500,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 8,
+        "name": "NFT #123",
+        "type": "NFT",
+        "cost": 7500,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 9,
+        "name": "NFT #998",
+        "type": "NFT",
+        "cost": 9980,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 10,
+        "name": "NFT #545",
+        "type": "NFT",
+        "cost": 14000,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 11,
+        "name": "NFT #4",
+        "type": "NFT",
+        "cost": 21000,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 12,
+        "name": "NFT #8888",
+        "type": "NFT",
+        "cost": 1250,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 13,
+        "name": "Oculus VR Headset",
+        "type": "VR Oculus",
+        "cost": 22000,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 14,
+        "name": "Oculus VR Headset",
+        "type": "VR Oculus",
+        "cost": 22000,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 15,
+        "name": "Oculus VR Headset",
+        "type": "VR Oculus",
+        "cost": 22000,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 16,
+        "name": "Oculus VR Headset",
+        "type": "VR Oculus",
+        "cost": 22000,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 17,
+        "name": "Oculus VR Headset",
+        "type": "VR Oculus",
+        "cost": 22000,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 18,
+        "name": "Signed NYG Jersey",
+        "type": "Tangible",
+        "cost": 19500,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 19,
+        "name": "Signed NYG Jersey",
+        "type": "Tangible",
+        "cost": 21500,
+        "thumbnail": "./assets/img/bayc.png"
+    },
+    {
+        "id": 20,
+        "name": "Signed NYG Jersey",
+        "type": "Tangible",
+        "cost": 24500,
+        "thumbnail": "./assets/img/bayc.png"
+    }
+]
