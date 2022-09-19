@@ -15,7 +15,7 @@ const Item = styled(Paper)(({ theme }) => ({
 
 export default function Marketplace() {
     return (
-        <Container maxWidth="xl">
+        <Container maxWidth="xl" sx={{ padding: "1em 0" }}>
             <Box sx={{ flexGrow: 1 }}>
                 <Grid container spacing={2}>
                     <Grid item xs={12} sm={3}>
